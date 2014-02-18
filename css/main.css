@@ -57,3 +57,15 @@ body {
 	left: -212px;
 	float: left;
 }
+
+.directions {
+	float: right;
+	padding-right: 100px;
+	padding-top: 450px;
+}
+
+p {
+	font-family: sans-serif;
+	font-weight: bold;
+	line-height: 20px;
+}
